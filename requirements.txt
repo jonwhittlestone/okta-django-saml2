@@ -1,0 +1,4 @@
+Django==1.11.10 
+django_saml2_auth
+psycopg2
+netifaces
